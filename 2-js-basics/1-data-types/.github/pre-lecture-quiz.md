@@ -13,5 +13,5 @@
 
 3. `==` and `===` are interchangeable
    
-- [1] true
+- [x] true
 - [ ] false
